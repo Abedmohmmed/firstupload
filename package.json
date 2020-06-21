@@ -1,0 +1,22 @@
+{
+  "name": "firstupload",
+  "version": "1.0.0",
+  "description": "Run LOcally ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abedmohmmed/firstupload.git"
+  },
+  "author": "Abdullah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abedmohmmed/firstupload/issues"
+  },
+  "homepage": "https://github.com/Abedmohmmed/firstupload#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
